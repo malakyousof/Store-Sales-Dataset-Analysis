@@ -61,7 +61,7 @@ The project includes:
 
 ## Roles & Responsibilities
 - **Data Cleaning & Preprocessing:** SQL, Python (Pandas)  
-- **Data Analysis & Visualization:** Python (Matplotlib), Tableau  
+- **Data Analysis & Visualization:** Python (Matplotlib), Powerbi  
 - **Forecasting Modeling:** Python (Scikit-learn)  
 - **Dashboard Development:** Tableau  
 - **Documentation & Presentation:** Team collaboration  
